@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.git/
+.github/
+tests/
+student_results.csv
+release_candidate/
+.venv/
+venv/
